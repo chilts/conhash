@@ -1,0 +1,16 @@
+{
+  "name": "conhash",
+  "title": "ConHash",
+  "description": "A fast consistent hashing (hashring) implementation.",
+  "version": "1.0.0",
+  "main": "lib/ring.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "murmurhash": "^2.0.1"
+  },
+  "author": "Andrew Chilton <andychilton@gmail.com",
+  "license": "ISC"
+}
